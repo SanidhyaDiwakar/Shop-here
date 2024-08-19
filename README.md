@@ -14,7 +14,6 @@ Shop-here is designed to provide a seamless and feature-rich shopping experience
 - **Reviews and Ratings**: Star rating system and user reviews for products.
 - **Real-Time Sales Charts**: Visualize sales data in real-time using SocketIO.
 - **Chat**: Real-time chat functionality for customer support using SocketIO.
-- **Deployment**: Deploy the application to Heroku and Render for easy access.
 - **State Management**: Manage state efficiently with React local state and Redux.
 - **React Hooks**: Utilize functional programming with React Hooks for cleaner code.
 
